@@ -1,1 +1,1 @@
-print("Hallo0")
+print("Hallo namaku bintang")
