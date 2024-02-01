@@ -1,5 +1,15 @@
+Hakari
+
 Name    : Kinji Hakari
 Kelas   : 3
 Sekolah : SMK Jujutsu Tokyo
 Power   : Gambling
 Grade   : 1
+
+Yuji
+
+Name    : Itadori Yuji
+Kelas   : 1
+Sekolah : SMK Jujutsu Tokyo
+Power   : Unknown
+Grade   : 2
